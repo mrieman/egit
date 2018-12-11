@@ -1,5 +1,9 @@
-Eclipse Git Plugin
+Eclipse Git Plugin 
 ==================
+***NOTE: This code is currently just a copy of egit. The plan is to modify this to be a plugin for git sub-repo... hopefully
+git sub-repo information can be found here: https://github.com/ingydotnet/git-subrepo#readme
+
+----------------------------------------------------------------------------
 
 EGit is an Eclipse plugin for working with Git repositories. It is based
 on the JGit library, which is a Git implementation in pure Java.
